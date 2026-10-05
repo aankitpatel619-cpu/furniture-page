@@ -4,9 +4,9 @@ import Navbar from "./Components/Navbar";
 import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
 import Contact from "./Pages/Contact";
-import Shop from "../Pages/Shop";
+import Shop from "./Pages/Shop";
 import "./App.css";
-import Blog from "../Pages/Blog";
+import Blog from "./Pages/Blog";
 
 
 function RedirectOnRefresh() {
